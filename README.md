@@ -6,7 +6,7 @@ match strategies and decision-making through data-driven insights.
 
 ## Screenshots of model
 
-![App Screenshot](https://github.com/navajis07/car-price-predictor/blob/main/Screenshot_20240325_112916.png?raw=true)
+![App Screenshot](https://github.com/navajis07/IPL-win-probability-prediction-model/blob/main/Screenshot_20240325_121403.png?raw=true)
 
 ## 🚀 About Me
 I'm a full stack data scientist...
